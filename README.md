@@ -10,7 +10,7 @@ JupyterLab extension for Go Jupyter Kernel
 ## Installation
 
 ```bash
-jupyter labextension install lgo_extension
+jupyter labextension install @yunabe/lgo_extension
 ```
 
 ## Development
