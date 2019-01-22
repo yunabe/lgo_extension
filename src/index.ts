@@ -39,7 +39,7 @@ function addFormatButton(panel: NotebookPanel, context: DocumentRegistry.IContex
     if (!kernel) {
       return;
     }
-    let notebook = panel.notebook;
+    let notebook = panel.content;
     if (!notebook) {
       return;
     }
