@@ -34,8 +34,8 @@
     "@jupyterlab/notebook": ">=0.16.3"
   },
   "devDependencies": {
-    "rimraf": "^2.6.1",
-    "typescript": "~2.6.0"
+    "rimraf": "latest",
+    "typescript": "latest"
   },
   "jupyterlab": {
     "extension": true
